@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-First of all, let's enable ISS in windows with CGI. To do this, open control panel, go to programs and geatures, click "Turn Windows features on or off".
+First of all, let's enable ISS in windows with CGI. To do this, open control panel, go to programs and features, click "Turn Windows features on or off".
 Find Internet Information Services (IIS) and click the left box to turn it on. 
 Then expand the folder by clicling + symbol. Now turn on "Web Management Tools" and "World Wide Web Services", expand "World Wide Web Services" to turn on
 "Application Development Features", "Common HTTP Features", "Health and Diagnostics", "Performance Features", and "Security".
